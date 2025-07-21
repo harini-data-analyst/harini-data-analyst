@@ -1,16 +1,34 @@
 ## Hi there 👋
+I'm Harini S
 
-<!--
-**harini-data-analyst/harini-data-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Budding Data Analyst**
+|Skilled in turning raw data into insights|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*What I'm Learning:*
+**Advanced Excel**
+- Pivot Tables, Dashboards, Formulas
+- 
+**SQL**
+- Joins, Window Functions, Subqueries
+- 
+**Power BI**
+- DAX, Report Building, Real-time Dashboards
+- 
+**Python**
+- Data Cleaning, Pandas, Seaborn, Matplotlib
+- 
+**R Programming**
+- Data Wrangling, Visualization
+- 
+**Tableau**
+- Business Dashboards, Data Storytelling
+- 
+*Projects:*
+Excel:
+Project-1:
+Project-2:
+Project-3:
+
+*Connect with Me:*
+**LinkedIn** : 
