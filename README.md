@@ -12,6 +12,7 @@ I'm Harini S
 - ✅ Basic Functions: MIN, MAX, SUM, COUNT, AVERAGE
 - ✅ Advanced Functions: VLOOKUP, HLOOKUP, INDEX-MATCH, Goal Seek, Solver
 - ✅ DAX Functions in Excel: Aggregate, Math, Logic, Date/Time
+  
 **SQL**
 - Joins, Window Functions, Subqueries
 - 
