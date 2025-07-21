@@ -7,8 +7,11 @@ I'm Harini S
 
 *What I'm Learning:*
 **Advanced Excel**
-- Pivot Tables, Dashboards, Formulas
-- 
+- ✅ Data Cleaning: Sorting, Removing Duplicates, Handling Null Values
+- ✅ Data Analysis: Pivot Tables, Conditional Formatting, Interactive Dashboards
+- ✅ Basic Functions: MIN, MAX, SUM, COUNT, AVERAGE
+- ✅ Advanced Functions: VLOOKUP, HLOOKUP, INDEX-MATCH, Goal Seek, Solver
+- ✅ DAX Functions in Excel: Aggregate, Math, Logic, Date/Time
 **SQL**
 - Joins, Window Functions, Subqueries
 - 
